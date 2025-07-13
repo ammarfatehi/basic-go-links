@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+README.md
+PRD.md
+
+# Data directory (will be mounted as volume)
+data/
+
+# Docker files
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db 

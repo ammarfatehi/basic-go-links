@@ -1,0 +1,38 @@
+[
+  {
+    "shortcut": "drive",
+    "url": "https://drive.google.com"
+  },
+  {
+    "shortcut": "docs",
+    "url": "https://docs.google.com"
+  },
+  {
+    "shortcut": "wsb",
+    "url": "https://www.reddit.com/r/wallstreetbets/"
+  },
+  {
+    "shortcut": "gh",
+    "url": "https://github.com/"
+  },
+  {
+    "shortcut": "gm",
+    "url": "https://gmail.com"
+  },
+  {
+    "shortcut": "cal",
+    "url": "https://calendar.google.com"
+  },
+  {
+    "shortcut": "l80",
+    "url": "http://localhost:8080"
+  },
+  {
+    "shortcut": "yt",
+    "url": "https://www.youtube.com/feed/subscriptions"
+  },
+  {
+    "shortcut": "rd",
+    "url": "https://www.reddit.com/"
+  }
+]
